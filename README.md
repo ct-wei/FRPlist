@@ -1,4 +1,4 @@
-# FRPList
+#[[ICNP2024]](https://ieeexplore.ieee.org/document/10858548) FRPList
 The open-source dataset of FRP list.
 
 ## Citation
